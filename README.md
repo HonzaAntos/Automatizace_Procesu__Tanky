@@ -1,4 +1,4 @@
-# Automatizace_Procesu__Tanky
+# Automatizace_Procesu__Tanky - TIA Portal
 Zpracování kompletního projektu TANKY pro automatizaci části technologického procesu, konkrétně pasterizační jednotky
 
 
